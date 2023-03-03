@@ -20,5 +20,5 @@ if (daynumber <= 5)
 if (daynumber == 6 | daynumber == 7)
 {
     Console.WriteLine(days[daynumber - 1]);
-    Console.WriteLine("Yes!!! It's holiday, let's go party");
+    Console.WriteLine("Yes!!! It's day off, let's go party");
 }
