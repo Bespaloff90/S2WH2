@@ -1,5 +1,5 @@
 ﻿
-Console.WriteLine("Введите координаты, 6 чисел через пробел");
+Console.WriteLine("ведите координаты, 6 чисел через пробел");
 {
     double[] x = new double[6];
     double d, distance = 0.0;
